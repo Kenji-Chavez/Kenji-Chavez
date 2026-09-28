@@ -89,7 +89,7 @@ Diseño e implementación de una arquitectura de base de datos distribuida basad
 - Procedimientos almacenados, funciones y cursores en **PL/pgSQL**.
 - Integridad referencial y consistencia transaccional.
 
-🔗 **[Ver proyecto en GitHub]([https://github.com/Kenji-Chavez?tab=repositories](https://github.com/Kenji-Chavez/Distributed-Postgresql-5nodes))**
+🔗 **[Ver proyecto en GitHub](https://github.com/Kenji-Chavez/Distributed-Postgresql-5nodes)**
 
 ---
 
