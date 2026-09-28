@@ -20,7 +20,8 @@ Estudiante de **Ingeniería de Sistemas e Informática** con un sólido interés
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías y Herramientas</b>
+<br>
 
 ### Lenguajes de Programación & Análisis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
