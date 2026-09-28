@@ -11,13 +11,15 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 Perfil Profesional
 
 Soy estudiante de **Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú (UTP)**, actualmente en **7.º ciclo y Décimo Superior**.
 
 Mi principal interés es el **Análisis de Datos y Business Intelligence**, especialmente en el procesamiento, transformación y visualización de información para generar insights que apoyen la toma de decisiones.
 
-Cuento con experiencia académica desarrollando proyectos de **ETL, análisis de datos, dashboards, KPIs y bases de datos**, utilizando herramientas como Python, SQL, Excel y Power BI.
+Cuento con experiencia académica desarrollando proyectos de **ETL, análisis de datos, dashboards, KPIs y bases de datos**, utilizando herramientas como **Python, SQL, Excel y Power BI**.
+
+Me caracterizo por mi **capacidad analítica, atención al detalle, trabajo en equipo, comunicación asertiva, proactividad y orientación a la mejora continua**.
 
 ### 🎯 Áreas de interés
 
@@ -60,7 +62,7 @@ Cuento con experiencia académica desarrollando proyectos de **ETL, análisis de
 
 ---
 
-## 🚀 Proyectos destacados
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados </b>
 
 ### 🌋 Análisis de Demanda Sísmica en el Perú — Python & Power BI
 
@@ -87,7 +89,7 @@ Diseño e implementación de una arquitectura de base de datos distribuida basad
 - Procedimientos almacenados, funciones y cursores en **PL/pgSQL**.
 - Integridad referencial y consistencia transaccional.
 
-🔗 **[Ver mis repositorios](https://github.com/Kenji-Chavez?tab=repositories)**
+🔗 **[Ver proyecto en GitHub]([https://github.com/Kenji-Chavez?tab=repositories](https://github.com/Kenji-Chavez/Distributed-Postgresql-5nodes))**
 
 ---
 
