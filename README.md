@@ -21,7 +21,7 @@ Cuento con experiencia académica desarrollando proyectos de **ETL, análisis de
 
 Me caracterizo por mi **capacidad analítica, atención al detalle, trabajo en equipo, comunicación asertiva, proactividad y orientación a la mejora continua**.
 
-### 🎯 Áreas de interés
+### 🎯 Áreas de Interés
 
 - 📊 Data Analytics
 - 💼 Business Intelligence
@@ -94,7 +94,7 @@ Diseño e implementación de una arquitectura de base de datos distribuida basad
 
 ---
 
-## 📚 Actualmente fortaleciendo
+## 📚 Actualmente Fortaleciendo
 
 - 📊 Análisis de Datos y Business Intelligence
 - 🐍 Python para procesamiento y análisis de datos
