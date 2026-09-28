@@ -108,7 +108,7 @@ Diseño e implementación de una arquitectura de base de datos distribuida basad
 
 ### 📫 Contacto
 
-**LinkedIn:** [Kenji Edison Chávez Tapia](https://www.linkedin.com/in/kenji-edison-chavez-tapia-65a746294/)
+**LinkedIn:** [Kenji Edison Chavez Tapia](https://www.linkedin.com/in/kenji-edison-chavez-tapia-65a746294/)
 
 **Email:** kenjichaveztapia@gmail.com
 
