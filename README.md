@@ -65,7 +65,7 @@ Me caracterizo por mi **capacidad analítica, atención al detalle, trabajo en e
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados </b>
 
-### 🏘️ Análisis de Créditos Hipotecarios del Fondo Mivivienda — Python & Power BI
+### 🏘️ Análisis de Créditos Hipotecarios del Fondo Mivivienda en el Perú (2020–2024) — Python & Power BI
 
 Pipeline de datos desarrollado para **procesar, depurar y analizar registros históricos de créditos hipotecarios (2020–2024)** de la Plataforma Nacional de Datos Abiertos del Perú.
 
