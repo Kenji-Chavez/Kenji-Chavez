@@ -65,6 +65,19 @@ Me caracterizo por mi **capacidad analítica, atención al detalle, trabajo en e
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Proyectos Destacados </b>
 
+### 🏘️ Análisis de Créditos Hipotecarios del Fondo Mivivienda — Python & Power BI
+
+Pipeline de datos desarrollado para **procesar, depurar y analizar registros históricos de créditos hipotecarios (2020–2024)** de la Plataforma Nacional de Datos Abiertos del Perú.
+
+- Limpieza y depuración automatizada en **Python (Pandas)** para consolidar una base limpia de **55,133 créditos**.
+- Modelado dimensional y métricas en **Power BI y DAX** sobre un volumen total de **S/ 8,998 millones**.
+- Identificación de tendencias del mercado, destacando el pico de colocaciones en **2022 (S/ 2,237 millones)** y la mayor demanda en el distrito de **Comas (7,330 créditos)**.
+- Análisis enfocado en evaluar la distribución geográfica y la participación de las Instituciones Financieras (IFI).
+
+🔗 **[Ver proyecto en GitHub](https://github.com/Kenji-Chavez/Fondo-Mivivienda-Analytics)**
+
+---
+
 ### 🌋 Análisis de Demanda Sísmica en el Perú — Python & Power BI
 
 Pipeline ETL desarrollado para **procesar, depurar y analizar registros sísmicos del Instituto Geofísico del Perú (IGP)**.
