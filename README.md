@@ -17,7 +17,7 @@ Soy estudiante de **Ingeniería de Sistemas e Informática en la Universidad Tec
 
 Mi principal interés es el **Análisis de Datos y Business Intelligence**, especialmente en el procesamiento, transformación y visualización de información para generar insights que apoyen la toma de decisiones.
 
-Cuento con experiencia académica desarrollando proyectos de **ETL, análisis de datos, dashboards, KPIs y bases de datos**, utilizando herramientas como **Python, SQL, Excel y Power BI**.
+Cuento con experiencia desarrollando proyectos de **ETL, análisis de datos, dashboards, KPIs y bases de datos**, utilizando herramientas como **Python, SQL, Excel y Power BI**.
 
 Me caracterizo por mi **capacidad analítica, atención al detalle, trabajo en equipo, comunicación asertiva, proactividad y orientación a la mejora continua**.
 
