@@ -19,7 +19,7 @@ Estudiante de Ingeniería de Sistemas e Informática en la UTP
 
 Interesado en **Data Analytics y Business Intelligence**, enfocado en transformar datos en información útil para la toma de decisiones.
 
-Desarrollo proyectos académicos de análisis de datos, procesos ETL y visualización, utilizando principalmente **Python, SQL y Power BI**.
+Desarrollo proyectos de análisis de datos, procesos ETL y visualización, utilizando principalmente **Python, SQL y Power BI**.
 
 ---
 
