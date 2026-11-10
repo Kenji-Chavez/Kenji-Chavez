@@ -56,7 +56,7 @@ Procesamiento y análisis de registros sísmicos del Instituto Geofísico del Pe
 - Cálculo de PGA resultante.
 - Visualización de indicadores sísmicos en Power BI.
 
-`Python` `NumPy` `Power Query` `Power BI`
+`Python` `NumPy` `Pandas` `Power Query` `Power BI`
 
 ### 🗄️ [Distributed PostgreSQL Database](https://github.com/Kenji-Chavez/Distributed-Postgresql-5nodes)
 
