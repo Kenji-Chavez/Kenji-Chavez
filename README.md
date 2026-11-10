@@ -1,49 +1,80 @@
+
 <div align="center">
 
 # Kenji Edison Chavez Tapia
 
-**Data Analytics · Business Intelligence · ETL**
-Estudiante de Ingeniería de Sistemas e Informática, UTP (Décimo Superior)
+**Systems Engineering Student | Data Analytics & Business Intelligence**
+
+Estudiante de Ingeniería de Sistemas e Informática en la UTP  
+7.º ciclo · Décimo Superior
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenji-edison-chavez-tapia-65a746294/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kenjichaveztapia@gmail.com)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kenjichaveztapia@gmail.com)
 
 </div>
 
 ---
 
-Convierto datos abiertos en información para decidir: pipelines ETL en Python, modelado con DAX y dashboards en Power BI.
+## About Me
 
-## Proyectos
+Interesado en **Data Analytics y Business Intelligence**, enfocado en transformar datos en información útil para la toma de decisiones.
 
-### 🏘️ Créditos hipotecarios del Fondo Mivivienda (2020–2024)
-**Python · Pandas · Power BI · DAX**
+Desarrollo proyectos de análisis de datos, procesos ETL y visualización, utilizando principalmente **Python, SQL y Power BI**.
 
-<img src="RUTA/captura-mivivienda.png" width="600">
+---
 
-- **55,133** créditos depurados y **S/ 8,998 M** analizados
-- Pico de colocaciones en 2022 (S/ 2,237 M); mayor demanda en Comas
+## Tech Stack
 
-[Ver proyecto →](https://github.com/Kenji-Chavez/Fondo-Mivivienda-Analytics)
+**Data Analytics:**  
+Power BI · Power Query · DAX · Python · Pandas · NumPy · Excel
 
-### 🌋 Demanda sísmica en el Perú (IGP)
-**Python · Power Query · Power BI**
+**Databases:**  
+SQL · PostgreSQL · SQL Server · MySQL
 
-<img src="RUTA/captura-sismos.png" width="600">
+**Tools:**  
+Git · GitHub
 
-- Cálculo de PGA a partir de componentes de aceleración
-- Máximo de **514.49 cm/s²** en Lurín (22 jun 2021)
+---
 
-[Ver proyecto →](https://github.com/Kenji-Chavez/Analisis-Demanda-Sismica-Peru-IGP)
+## Featured Projects
 
-### 🗄️ Base de datos distribuida con PostgreSQL
-**PostgreSQL · FDW · PL/pgSQL**
+### 📊 [Fondo Mivivienda Analytics](https://github.com/Kenji-Chavez/Fondo-Mivivienda-Analytics)
 
-- 5 nodos autónomos con fragmentación horizontal y vertical y consultas distribuidas
+Análisis de 55,133 créditos hipotecarios del Perú (2020–2024).
 
-[Ver proyecto →](https://github.com/Kenji-Chavez/Distributed-Postgresql-5nodes)
+- Limpieza y transformación de datos con Python y Pandas.
+- Modelado dimensional y dashboard interactivo en Power BI.
+- Análisis de S/ 8,998 millones en créditos hipotecarios.
+
+`Python` `Pandas` `Power BI` `DAX`
+
+### 🌋 [Análisis de Demanda Sísmica en el Perú](https://github.com/Kenji-Chavez/Analisis-Demanda-Sismica-Peru-IGP)
+
+Procesamiento y análisis de registros sísmicos del Instituto Geofísico del Perú.
+
+- Pipeline ETL con Python, Pandas y NumPy.
+- Cálculo de PGA resultante.
+- Visualización de indicadores sísmicos en Power BI.
+
+`Python` `NumPy` `Power Query` `Power BI`
+
+### 🗄️ [Distributed PostgreSQL Database](https://github.com/Kenji-Chavez/Distributed-Postgresql-5nodes)
+
+Implementación de una arquitectura de base de datos distribuida basada en Northwind.
+
+- Arquitectura de cinco nodos autónomos.
+- Fragmentación horizontal y vertical.
+- Consultas distribuidas mediante Foreign Data Wrappers.
+- Funciones, procedimientos y cursores en PL/pgSQL.
+
+`PostgreSQL` `FDW` `PL/pgSQL`
+
+---
+
+<div align="center">
+
+**Let's connect!**
+
+[LinkedIn](https://www.linkedin.com/in/kenji-edison-chavez-tapia-65a746294/) · kenjichaveztapia@gmail.com
+
+</div>
